@@ -1,13 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://mateo.es">Mateo Domínguez</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://madomigo.github.io">Mateo Domínguez</a> 👋</h1>
 </div>
 <img src="">
 
 ## Sobre mi
 
-- ⭐ Estudiante de Matemáticas e Ingeniería Informática en la Universidad de La Rioja.
-- 📲 Apasionado por la programación.
-
+- 🎓 Estudiante de Matemáticas e Ingeniería Informática en la Universidad de La Rioja.
+- 📲 Apasionado desarrollador con experiencia en <span style="font-weight: bold;">algoritmia y programación competitiva</span>. 
+- 💻 Comprometido con la creación de soluciones innovadoras y eficientes para desafíos tecnológicos.
+- ⭐ Disfruto colaborando en proyectos que me permitan aprender y crecer profesionalmente.
 <br>
 
 ## Mis proyectos
