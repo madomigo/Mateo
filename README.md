@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://madomigo.github.io">Mateo Domínguez</a> 👋</h1>
 </div>
-<img src="">
 
 ## Sobre mi
 
